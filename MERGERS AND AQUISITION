@@ -1,0 +1,61 @@
+Mergers & Acquisition Presentation
+# Mergers & Acquisitions Presentation Framework
+
+A comprehensive executive presentation covering core Mergers & Acquisitions (M&A) concepts, transaction structures, buy-side and sell-side advisory workflows, and post-merger synergy realization strategies.
+
+---
+
+## 📌 Executive Summary
+
+This repository contains materials detailing corporate finance and strategic frameworks for executing M&A transactions. It provides a structured look at how companies combine operations, execute takeover strategies, run advisory workflows, and realize both cost and revenue synergies through real-world case studies[cite: 1].
+
+---
+
+## 🔑 Key Highlights & Topics Covered
+
+### 1. Core Transaction Types & Structures
+* **Merger:** Combination of two entities of roughly equal size to form a brand-new enterprise (e.g., Citicorp + Travelers -> Citigroup)[cite: 1].
+* **Acquisition:** Direct purchase where the target becomes a subsidiary or is fully absorbed[cite: 1].
+* **Consolidation:** Combination of multiple firms into an entirely new entity while original legal entities cease to exist[cite: 1].
+* **Direct & Hostile Structures:**
+  * **Tender Offer:** Direct public offers made to target shareholders (e.g., Kraft acquiring Cadbury plc, 2010)[cite: 1].
+  * **Hostile Takeover:** Bypassing management/board to appeal directly to shareholders (e.g., Vodafone acquiring Mannesmann, 1999)[cite: 1].
+* **Corporate Strategy Options:** Divestitures, Leveraged Buyouts (LBOs), and Joint Ventures[cite: 1].
+
+---
+
+### 2. M&A Advisory Workflows
+
+#### 🔵 Buy-Side Advisory Process
+1. **Target Identification:** Screen and map targets based on strategic vision[cite: 1].
+2. **Valuation Modeling:** Perform DCF, Comparable Companies, and LBO models[cite: 1].
+3. **Due Diligence:** Conduct operational, legal, and financial audits[cite: 1].
+4. **Negotiation & Terms:** Secure pricing, indemnities, and terms[cite: 1].
+* **Benchmark:** Google acquiring YouTube (2006) for inorganic expansion[cite: 1].
+
+#### 🔴 Sell-Side Advisory Process
+1. **CIM Preparation:** Draft Information Memorandums and teaser materials[cite: 1].
+2. **Quality of Earnings:** Conduct internal financial due diligence[cite: 1].
+3. **Auction Process:** Run competitive bidding to maximize deal valuation[cite: 1].
+4. **Execution:** Finalize buyer negotiations and manage closing conditions[cite: 1].
+* **Benchmark:** Lazard & Goldman Sachs advising the Twitter Board (2022)[cite: 1].
+
+---
+
+### 3. Synergy Realization Principle (2 + 2 = 5)
+
+The frameworks detail the drivers for value creation post-transaction[cite: 1]:
+
+| Synergy Type | Classification | Key Drivers & Examples |
+| :--- | :--- | :--- |
+| **Cost Synergies**[cite: 1] | Hard Synergies (Tangible cost savings)[cite: 1] | Eliminating overlaps in **Staffing** (HR/Legal/Finance), **Facilities**, **Procurement** bulk discounts, and unifying **IT Systems**[cite: 1]. <br> *Case Studies:* Exxon & Mobil (1999), Tata Steel & Corus (2007)[cite: 1]. |
+| **Revenue Synergies**[cite: 1] | Soft Synergies (Top-line revenue expansion)[cite: 1] | **Cross-Selling**, expanding geographic distribution, **R&D Innovation**, and leveraging **Brand Power**[cite: 1]. <br> *Case Study:* Disney acquiring Pixar (2006)[cite: 1]. |
+
+---
+
+## 🛠 File Structure
+
+```text
+.
+├── Mergers & Acquisitions Presentation.pdf   # Full presentation slide deck
+└── README.md                                 # Presentation summary and documentation
